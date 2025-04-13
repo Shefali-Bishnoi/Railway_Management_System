@@ -15,9 +15,9 @@ Receive concessions based on category (Senior Citizens, Students, Physically Cha
 🔹 Payment Modes: UPI, Credit/Debit Card, Wallet, Net Banking.<br/>
 🔹 Cancellations & Refunds: Based on timing and policy.<br/>
 🔹 Fare Concessions:<br/>
-&nbsp;&nbsp;Senior Citizens: 40%<br/>
-    2. Students: 25%<br/>
-    3. Physically Challenged: 75%<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Senior Citizens: 40%<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Students: 25%<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Physically Challenged: 75%<br/>
 
 ## E-R Model<br/>
 ## Entities:<br/>
@@ -33,11 +33,11 @@ All relationships have defined primary keys, foreign keys, and cardinalities.<br
 ## Relational Schema<br/>
 Fully normalized (up to 3NF).<br/>
 MySQL implementation includes:<br/>
-✅ Tables with constraints and indices<br/>
-✅ Views<br/>
-✅ Stored procedures<br/>
-✅ Triggers<br/>
-✅ Sample data (CSV)<br/>
+1.  Tables with constraints and indices<br/>
+2.  Views<br/>
+3.  Stored procedures<br/>
+4.  Triggers<br/>
+5.  Sample data (CSV)<br/>
 
 ## Setup Instructions<br/>
 
