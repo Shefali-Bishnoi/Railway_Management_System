@@ -75,6 +75,12 @@ CALL cancel_ticket('PNR8254631', @status, @refund_amount);
 SELECT @status, @refund_amount;
 
 Stored Procedures
+![image](https://github.com/user-attachments/assets/ed7eed95-1adb-48a4-b1fc-335baf8bf725)
+
+Triggers
+![image](https://github.com/user-attachments/assets/931cd825-54c1-4b6b-b88b-609ff18fad4c)
+
+
 
 
 
