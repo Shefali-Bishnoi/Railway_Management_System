@@ -84,6 +84,21 @@ SELECT @status, @refund_amount;<br/>
 ## Triggers<br/>
 ![image](https://github.com/user-attachments/assets/931cd825-54c1-4b6b-b88b-609ff18fad4c)<br/>
 
+## Analytics Queries</br>
+ Busiest Routes</br>
+ Revenue by Train Class & Type</br>
+ Concession Usage Analysis</br>
+ Station Traffic Stats</br>
+ 
+## Deliverables Checklist</br>
+   E-R Diagram with entity descriptions</br>
+   Relational Schema (Normalized)</br>
+   Populated Sample Data (CSV + SQL)</br>
+   SQL: Queries, Views, Triggers, Procedures</br>
+
+## Analytical Queries</br>
+ 📄 Documentation: CS2202_MiniProject_GroupNo.pdf
+
 
 
 
