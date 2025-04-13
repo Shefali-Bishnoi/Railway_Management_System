@@ -15,7 +15,7 @@ Receive concessions based on category (Senior Citizens, Students, Physically Cha
 🔹 Payment Modes: UPI, Credit/Debit Card, Wallet, Net Banking.<br/>
 🔹 Cancellations & Refunds: Based on timing and policy.<br/>
 🔹 Fare Concessions:<br/>
-    1. Senior Citizens: 40%<br/>
+&nbsp&nbspSenior Citizens: 40%<br/>
     2. Students: 25%<br/>
     3. Physically Challenged: 75%<br/>
 
