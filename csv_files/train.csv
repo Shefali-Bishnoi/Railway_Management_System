@@ -1,0 +1,21 @@
+train_id,name,type
+1,Shatabdi Express,Rajdhani
+2,Rajdhani Express,Express
+3,Duronto Express,Shatabdi
+4,Garib Rath Express,Vande Bharat
+5,Vande Bharat Express,Shatabdi
+6,Jan Shatabdi,Rajdhani
+7,Humsafar Express,Shatabdi
+8,Antyodaya Express,Passenger
+9,Tejas Express,Passenger
+10,Sampark Kranti,Superfast
+11,Intercity Express,Vande Bharat
+12,Double Decker,Superfast
+13,Uday Express,Express
+14,Yuva Express,Express
+15,Superfast Express,Vande Bharat
+16,Passenger Special,Express
+17,Mail Express,Express
+18,Kavi Guru Express,Vande Bharat
+19,Suvidha Express,Vande Bharat
+20,Mahamana Express,Express

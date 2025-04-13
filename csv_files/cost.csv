@@ -1,0 +1,37 @@
+cost_id,class_type,train_type,base_fare,per_km_charge
+1,AC First Class,Shatabdi,450.00,3.50
+2,AC Second Class,Shatabdi,350.00,2.75
+3,AC Third Class,Shatabdi,250.00,2.00
+4,Sleeper,Shatabdi,200.00,1.50
+5,General,Shatabdi,100.00,0.80
+6,Executive,Shatabdi,550.00,4.00
+7,AC First Class,Vande Bharat,500.00,4.00
+8,AC Second Class,Vande Bharat,400.00,3.25
+9,AC Third Class,Vande Bharat,300.00,2.50
+10,Sleeper,Vande Bharat,250.00,2.00
+11,General,Vande Bharat,150.00,1.20
+12,Executive,Vande Bharat,600.00,4.50
+13,AC First Class,Rajdhani,475.00,3.75
+14,AC Second Class,Rajdhani,375.00,3.00
+15,AC Third Class,Rajdhani,275.00,2.25
+16,Sleeper,Rajdhani,225.00,1.75
+17,General,Rajdhani,125.00,1.00
+18,Executive,Rajdhani,575.00,4.25
+19,AC First Class,Express,400.00,3.00
+20,AC Second Class,Express,300.00,2.25
+21,AC Third Class,Express,200.00,1.50
+22,Sleeper,Express,150.00,1.00
+23,General,Express,75.00,0.50
+24,Executive,Express,500.00,3.50
+25,AC First Class,Passenger,350.00,2.50
+26,AC Second Class,Passenger,250.00,1.75
+27,AC Third Class,Passenger,150.00,1.00
+28,Sleeper,Passenger,100.00,0.75
+29,General,Passenger,50.00,0.30
+30,Executive,Passenger,450.00,3.00
+31,AC First Class,Superfast,425.00,3.25
+32,AC Second Class,Superfast,325.00,2.50
+33,AC Third Class,Superfast,225.00,1.75
+34,Sleeper,Superfast,175.00,1.25
+35,General,Superfast,90.00,0.60
+36,Executive,Superfast,525.00,3.75

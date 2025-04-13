@@ -1,0 +1,31 @@
+station_id,name,code,city,state,number_of_platforms
+1,New Delhi,NDLS,Delhi,Delhi,11
+2,Mumbai Central,BCT,Mumbai,Maharashtra,17
+3,Chennai Central,MAS,Chennai,Tamil Nadu,5
+4,Howrah Junction,HWH,Kolkata,West Bengal,12
+5,Bangalore City,SBC,Bangalore,Karnataka,15
+6,Secunderabad,SC,Hyderabad,Telangana,3
+7,Ahmedabad,ADI,Ahmedabad,Gujarat,16
+8,Pune Junction,PUNE,Pune,Maharashtra,7
+9,Patna Junction,PNBE,Patna,Bihar,10
+10,Jaipur Junction,JP,Jaipur,Rajasthan,1
+11,Naihati,FEE,Jamshedpur,Mizoram,15
+12,Miryalaguda,DAM,Berhampore,Maharashtra,20
+13,Nellore,APT,Kadapa,Punjab,15
+14,Aizawl,QWR,Nashik,Andhra Pradesh,1
+15,Gandhidham,CNE,Bidhannagar,Sikkim,7
+16,Raipur,PRH,Ludhiana,Gujarat,10
+17,Kavali,RQB,Bhopal,Nagaland,4
+18,Fatehpur,LIA,Durgapur,Assam,10
+19,Durgapur,UKF,Jammu,Madhya Pradesh,18
+20,Tinsukia,RWQ,Sambhal,Mizoram,20
+21,Alwar,FLW,Phusro,Madhya Pradesh,5
+22,Tadipatri,NHB,Ratlam,Chhattisgarh,14
+23,Imphal,ZCA,Ambala,Uttar Pradesh,16
+24,Visakhapatnam,IJA,Tinsukia,Himachal Pradesh,3
+25,Bellary,MTT,Dewas,Mizoram,16
+26,Jehanabad,RMI,Berhampur,Assam,8
+27,Nangloi Jat,KDQ,Ichalkaranji,Andhra Pradesh,18
+28,Navi Mumbai,CTL,Fatehpur,Goa,13
+29,Buxar,DZQ,Machilipatnam,West Bengal,9
+30,Rajkot,IVG,Kumbakonam,Mizoram,1
