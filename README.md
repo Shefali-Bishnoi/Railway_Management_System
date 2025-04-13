@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/9cd19f44-bb87-47a2-ac90-e06ac42190f0)
 <br/>A robust MySQL-based Railway Ticket Reservation System for managing train ticket bookings, cancellations, seat availability, payments, and special passenger concessions. It supports advanced features such as RAC (Reservation Against Cancellation), waitlisting, and real-time ticket tracking.
 
-Project Overview<br/>
+<u>Project Overview</u><br/>
 This system allows passengers to:
 Book, modify, and cancel train tickets.</br>
 View train schedules and seat availability.<br/>
@@ -15,9 +15,9 @@ Key Features<br/>
 🔹 Payment Modes: UPI, Credit/Debit Card, Wallet, Net Banking.<br/>
 🔹 Cancellations & Refunds: Based on timing and policy.<br/>
 🔹 Fare Concessions:<br/>
-Senior Citizens: 40%<br/>
-Students: 25%<br/>
-Physically Challenged: 75%<br/>
+    Senior Citizens: 40%<br/>
+    Students: 25%<br/>
+    Physically Challenged: 75%<br/>
 
 E-R Model<br/>
 Entities:<br/>
