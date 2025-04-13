@@ -96,9 +96,6 @@ SELECT @status, @refund_amount;<br/>
    Populated Sample Data (CSV + SQL)</br>
    SQL: Queries, Views, Triggers, Procedures</br>
 
-## Analytical Queries</br>
- 📄 Documentation: CS2202_MiniProject_GroupNo.pdf
-
 
 
 
