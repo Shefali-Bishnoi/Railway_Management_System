@@ -3,85 +3,59 @@ A robust MySQL-based Railway Ticket Reservation System for managing train ticket
 
 Project Overview
 This system allows passengers to:
-
 Book, modify, and cancel train tickets.
-
 View train schedules and seat availability.
-
 Make payments via various modes.
-
 Track PNR status, RAC, and waitlist positions.
-
 Receive concessions based on category (Senior Citizens, Students, Physically Challenged).
 
 Key Features
 🔹 Class-Based Booking: Sleeper, AC 1st/2nd/3rd Class, General, Executive.
-
 🔹 RAC & Waitlist System: Auto-management and updates.
-
 🔹 Payment Modes: UPI, Credit/Debit Card, Wallet, Net Banking.
-
 🔹 Cancellations & Refunds: Based on timing and policy.
-
 🔹 Fare Concessions:
-
 Senior Citizens: 40%
-
 Students: 25%
-
 Physically Challenged: 75%
 
 E-R Model
 Entities:
-
 Passenger, Train, Ticket, Payment, Station, Schedule, Coach, Seat, Distance, Cost, RAC, Waitlist, Cancellation, Ticket_Status_Log
-
 Relationships:
-
 Passenger ↔️ Ticket
-
 Ticket ↔️ Train
-
 Train ↔️ Schedule
-
 Ticket ↔️ Payment
 
 All relationships have defined primary keys, foreign keys, and cardinalities.
 
 Relational Schema
 Fully normalized (up to 3NF).
-
 MySQL implementation includes:
-
 ✅ Tables with constraints and indices
-
 ✅ Views
-
 ✅ Stored procedures
-
 ✅ Triggers
-
 ✅ Sample data (CSV)
 
 Setup Instructions
+
 Prerequisites
 MySQL: Version 8.0+
 
 Sample Data Files: (e.g., station.csv, train.csv)
 
 Configuration
-  Enable Local Infile
-   SET GLOBAL local_infile = 1;
-  Start MySQL with Infile Option
-    mysql --local-infile=1 -u root -p
+Enable Local Infile
+SET GLOBAL local_infile = 1;
+Start MySQL with Infile Option
+mysql --local-infile=1 -u root -p
 
 Modify File Paths
 Update LOAD DATA LOCAL INFILE file paths in your SQL script:
-
 Windows: C:\\path\\to\\file.csv
-
 Linux/Mac: /path/to/file.csv
-
 Run the Script
 mysql -u root -p < railway_management.sql
 
