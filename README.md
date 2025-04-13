@@ -110,6 +110,23 @@ SELECT @status, @refund_amount;<br/>
 ![image](https://github.com/user-attachments/assets/29f3a024-d448-4ac7-b7ec-8e8cb1c0ca76)</br>
 
 
+## Additional Queries</br>
+
+1.![image](https://github.com/user-attachments/assets/55ae40bf-d21c-4f20-8f77-e9be4ceb6651)</br>
+![image](https://github.com/user-attachments/assets/7b6d4c62-7c1f-4d07-850e-e0fa1bf20b69)</br>
+
+2.![image](https://github.com/user-attachments/assets/df8f7428-9e70-407e-8d87-f4426b8aa582)</br>
+![image](https://github.com/user-attachments/assets/b0dfbf18-2594-4e46-998b-2f1e19cf6056)</br>
+
+3.![image](https://github.com/user-attachments/assets/2d4258d0-40ba-4ed9-b7bc-1d86c6a33b15)</br>
+![image](https://github.com/user-attachments/assets/06aa5529-990e-4da8-9f91-601f3db4afa6)</br>
+
+
+
+
+
+
+
 
 
 
@@ -136,11 +153,6 @@ SELECT @status, @refund_amount;<br/>
 ## Triggers<br/>
 ![image](https://github.com/user-attachments/assets/931cd825-54c1-4b6b-b88b-609ff18fad4c)<br/>
 
-## Analytics Queries</br>
- Busiest Routes</br>
- Revenue by Train Class & Type</br>
- Concession Usage Analysis</br>
- Station Traffic Stats</br>
  
 ## Deliverables Checklist</br>
    E-R Diagram with entity descriptions</br>
