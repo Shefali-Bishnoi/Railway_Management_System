@@ -94,20 +94,20 @@ SELECT @status, @refund_amount;<br/>
 5. ![image](https://github.com/user-attachments/assets/6b317fc6-1f8a-4be8-bea0-9855f74c7d70)</br>
 ![image](https://github.com/user-attachments/assets/2b0e05fb-ea8c-4d50-9004-dea7d6bec461)</br>
 
-6.![image](https://github.com/user-attachments/assets/fe02a910-7803-427c-a653-e311284b26b2)</br>
-&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/8d14051f-7bd0-408f-bbf6-9c8ee60e75e1)</br>
+6. ![image](https://github.com/user-attachments/assets/fe02a910-7803-427c-a653-e311284b26b2)</br>
+![image](https://github.com/user-attachments/assets/8d14051f-7bd0-408f-bbf6-9c8ee60e75e1)</br>
 
-7.![image](https://github.com/user-attachments/assets/e11bb284-3fc4-4e29-a0f1-449c8e3b63e9)</br>
-&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/178a4ff5-beb3-418a-8ccb-036281d6939c)</br>
+7. ![image](https://github.com/user-attachments/assets/e11bb284-3fc4-4e29-a0f1-449c8e3b63e9)</br>
+![image](https://github.com/user-attachments/assets/178a4ff5-beb3-418a-8ccb-036281d6939c)</br>
 
-8.![image](https://github.com/user-attachments/assets/ff23694c-321b-4ed8-8192-17b1901743e8)</br>
-&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/d7e2770d-99aa-4773-9cd8-c0cb1b199737)</br>
+8. ![image](https://github.com/user-attachments/assets/ff23694c-321b-4ed8-8192-17b1901743e8)</br>
+![image](https://github.com/user-attachments/assets/d7e2770d-99aa-4773-9cd8-c0cb1b199737)</br>
 
-9.![image](https://github.com/user-attachments/assets/63b104f4-8576-4ae8-a596-c0d0ccf8042d)</br>
-&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/5aff276d-19bb-4a57-a901-6b5673fe7076)</br>
+9. ![image](https://github.com/user-attachments/assets/63b104f4-8576-4ae8-a596-c0d0ccf8042d)</br>
+![image](https://github.com/user-attachments/assets/5aff276d-19bb-4a57-a901-6b5673fe7076)</br>
 
-10.![image](https://github.com/user-attachments/assets/e03c40be-c871-4aed-b034-e65a06cbf75a)</br>
-&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/29f3a024-d448-4ac7-b7ec-8e8cb1c0ca76)</br>
+10. ![image](https://github.com/user-attachments/assets/e03c40be-c871-4aed-b034-e65a06cbf75a)</br>
+![image](https://github.com/user-attachments/assets/29f3a024-d448-4ac7-b7ec-8e8cb1c0ca76)</br>
 
 
 ## Additional Queries</br>
