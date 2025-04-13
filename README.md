@@ -79,8 +79,31 @@ CALL cancel_ticket('PNR8254631', @status, @refund_amount);<br/>
 SELECT @status, @refund_amount;<br/>
 
 ## Queries</br>
+1. ![image](https://github.com/user-attachments/assets/9252d9ed-bc1b-44fd-a6ae-d8682c37825a)</br>
+![image](https://github.com/user-attachments/assets/bd7fcdef-c318-4eb3-91d1-c718f1b38c88)</br>
 
-![image](https://github.com/user-attachments/assets/bd7fcdef-c318-4eb3-91d1-c718f1b38c88)
+2. ![image](https://github.com/user-attachments/assets/cf2e2940-f407-4566-b19c-9c617d368843)</br>
+![image](https://github.com/user-attachments/assets/c479cfe3-4382-485b-bbcd-54244bec0097)</br>
+
+3. ![image](https://github.com/user-attachments/assets/4d31d0c5-3328-4a28-a2a6-aba82852cf9f)</br>
+![image](https://github.com/user-attachments/assets/f8efcb62-704e-4ed3-b3eb-12ec7c602616)</br>
+
+4. ![image](https://github.com/user-attachments/assets/6a28c87a-f6a2-42a9-b2db-9e837a03f3c3)</br>
+![image](https://github.com/user-attachments/assets/8d576cab-a61a-45b6-943d-8d2c8d3f55a1)</br>
+
+5. ![image](https://github.com/user-attachments/assets/6b317fc6-1f8a-4be8-bea0-9855f74c7d70)</br>
+![image](https://github.com/user-attachments/assets/2b0e05fb-ea8c-4d50-9004-dea7d6bec461)</br>
+
+6.
+
+
+
+
+
+
+
+
+
 
 
 ## Stored Procedures<br/>
