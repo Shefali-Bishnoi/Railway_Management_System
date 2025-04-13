@@ -78,6 +78,11 @@ Cancel a Ticket<br/>
 CALL cancel_ticket('PNR8254631', @status, @refund_amount);<br/>
 SELECT @status, @refund_amount;<br/>
 
+## Queries</br>
+
+![image](https://github.com/user-attachments/assets/bd7fcdef-c318-4eb3-91d1-c718f1b38c88)
+
+
 ## Stored Procedures<br/>
 ![image](https://github.com/user-attachments/assets/ed7eed95-1adb-48a4-b1fc-335baf8bf725)<br/>
 
