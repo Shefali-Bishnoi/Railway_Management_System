@@ -21,6 +21,9 @@ Receive concessions based on category (Senior Citizens, Students, Physically Cha
 
 ## E-R Model<br/>
 
+![image](https://github.com/user-attachments/assets/9dfd636e-1208-462a-becf-2ec841ffc911)
+![image](https://github.com/user-attachments/assets/02682cdf-67be-4b33-99d3-4619b3b089be)</br>
+
 
 
 ## Entities:<br/>
