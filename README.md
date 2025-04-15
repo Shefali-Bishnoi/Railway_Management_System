@@ -125,28 +125,6 @@ SELECT @status, @refund_amount;<br/>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Stored Procedures<br/>
 ![image](https://github.com/user-attachments/assets/ed7eed95-1adb-48a4-b1fc-335baf8bf725)<br/>
 
@@ -154,25 +132,25 @@ SELECT @status, @refund_amount;<br/>
 ![image](https://github.com/user-attachments/assets/931cd825-54c1-4b6b-b88b-609ff18fad4c)<br/>
 
 
-
+## Normalistion</br>
 
 ## First Normal Form (1NF)</br>
 
-Each table has a clear primary key (e.g., passenger_id, train_id, station_id)
-All attributes contain atomic values (no multi-valued attributes)
-No repeating groups within tables
+1. Each table has a clear primary key (e.g., passenger_id, train_id, station_id).</br>
+2. All attributes contain atomic values (no multi-valued attributes).</br>
+3. No repeating groups within tables.</br>
 
 ## Second Normal Form (2NF)</br>
 
-All non-key attributes are fully dependent on their primary keys
-Composite keys in tables like seat (train_id, coach_id, seat_number) properly identify records
-Related data is separated into distinct tables (passengers, trains, stations, etc.)
+1. All non-key attributes are fully dependent on their primary keys.</br>
+2. Composite keys in tables like seat (train_id, coach_id, seat_number) properly identify records.</br>
+3. Related data is separated into distinct tables (passengers, trains, stations, etc.).</br>
 
 ## Third Normal Form (3NF)</br>
 
-No transitive dependencies between non-key attributes
-Good example: The cost table separates pricing logic from train and coach tables
-distance table properly normalizes the relationship between stations
+1. No transitive dependencies between non-key attributes.</br>
+2. Good example: The cost table separates pricing logic from train and coach tables.</br>
+3. distance table properly normalizes the relationship between stations.</br>
 
 ## Specific Normalization Examples</br>
 
