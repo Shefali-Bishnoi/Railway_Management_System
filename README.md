@@ -20,7 +20,11 @@ Receive concessions based on category (Senior Citizens, Students, Physically Cha
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Physically Challenged: 75%<br/>
 
 ## E-R Model<br/>
+
+![image](https://github.com/user-attachments/assets/58cb6fd4-2042-4fea-92d8-367e82d17393)</br>
+
 ## Entities:<br/>
+
 Passenger, Train, Ticket, Payment, Station, Schedule, Coach, Seat, Distance, Cost, RAC, Waitlist, Cancellation, Ticket_Status_Log<br/>
 ## Relationships:<br/>
 Passenger ↔️ Ticket<br/>
@@ -29,6 +33,8 @@ Train ↔️ Schedule<br/>
 Ticket ↔️ Payment<br/>
 
 All relationships have defined primary keys, foreign keys, and cardinalities.<br/>
+![image](https://github.com/user-attachments/assets/d854c97a-f167-456c-ae1a-ec7e3398b46f)</br>
+
 
 ## Relational Schema<br/>
 Fully normalized (up to 3NF).<br/>
@@ -38,6 +44,8 @@ MySQL implementation includes:<br/>
 3.  Stored procedures<br/>
 4.  Triggers<br/>
 5.  Sample data (CSV)<br/>
+![image](https://github.com/user-attachments/assets/6ec2f827-f4d0-4abf-8eee-7f2d01de6096)</br>
+
 
 ## Setup Instructions<br/>
 
