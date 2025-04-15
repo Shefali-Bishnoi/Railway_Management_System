@@ -153,6 +153,38 @@ SELECT @status, @refund_amount;<br/>
 ## Triggers<br/>
 ![image](https://github.com/user-attachments/assets/931cd825-54c1-4b6b-b88b-609ff18fad4c)<br/>
 
+
+
+
+## First Normal Form (1NF)</br>
+
+Each table has a clear primary key (e.g., passenger_id, train_id, station_id)
+All attributes contain atomic values (no multi-valued attributes)
+No repeating groups within tables
+
+## Second Normal Form (2NF)</br>
+
+All non-key attributes are fully dependent on their primary keys
+Composite keys in tables like seat (train_id, coach_id, seat_number) properly identify records
+Related data is separated into distinct tables (passengers, trains, stations, etc.)
+
+## Third Normal Form (3NF)</br>
+
+No transitive dependencies between non-key attributes
+Good example: The cost table separates pricing logic from train and coach tables
+distance table properly normalizes the relationship between stations
+
+## Specific Normalization Examples</br>
+
+## Train and Coach separation:</br>
+Train details and coach information are in separate tables, with coach referencing train_id</br>
+## Station and Schedule separation:</br>
+Station information is independent of train schedules</br>
+## Payment and Ticket separation:</br>
+Payment details are not embedded in the ticket table</br>
+## Cost model normalization:</br>
+Fare calculation factors are separated in their own table</br>
+
  
 ## Deliverables Checklist</br>
    E-R Diagram with entity descriptions</br>
