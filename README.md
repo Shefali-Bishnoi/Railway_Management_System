@@ -134,33 +134,33 @@ SELECT @status, @refund_amount;<br/>
 
 ## Normalistion</br>
 
-## First Normal Form (1NF)</br>
+### First Normal Form (1NF)</br>
 
 1. Each table has a clear primary key (e.g., passenger_id, train_id, station_id).</br>
 2. All attributes contain atomic values (no multi-valued attributes).</br>
 3. No repeating groups within tables.</br>
 
-## Second Normal Form (2NF)</br>
+### Second Normal Form (2NF)</br>
 
 1. All non-key attributes are fully dependent on their primary keys.</br>
 2. Composite keys in tables like seat (train_id, coach_id, seat_number) properly identify records.</br>
 3. Related data is separated into distinct tables (passengers, trains, stations, etc.).</br>
 
-## Third Normal Form (3NF)</br>
+### Third Normal Form (3NF)</br>
 
 1. No transitive dependencies between non-key attributes.</br>
 2. Good example: The cost table separates pricing logic from train and coach tables.</br>
 3. distance table properly normalizes the relationship between stations.</br>
 
-## Specific Normalization Examples</br>
+### Specific Normalization Examples</br>
 
-## Train and Coach separation:</br>
+#### Train and Coach separation:</br>
 Train details and coach information are in separate tables, with coach referencing train_id</br>
-## Station and Schedule separation:</br>
+#### Station and Schedule separation:</br>
 Station information is independent of train schedules</br>
-## Payment and Ticket separation:</br>
+#### Payment and Ticket separation:</br>
 Payment details are not embedded in the ticket table</br>
-## Cost model normalization:</br>
+#### Cost model normalization:</br>
 Fare calculation factors are separated in their own table</br>
 
  
